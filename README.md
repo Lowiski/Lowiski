@@ -89,20 +89,21 @@ const tools = {
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Learning
 
-- 🔭 Building scalable web applications with *Next.js* and *TypeScript*
-- 🌱 Exploring *serverless architectures* and *cloud technologies*
-- 👯 Open to collaborating on *open-source projects*
-- 💬 Ask me about *React*, *Node.js*, or *web performance optimization*
+- OOP
+- JavaScript
+- MongoDB
+- ReactJS
+- MySQL
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-*Open for opportunities, collaborations, and interesting conversations!*
+GitHub: https://github.com/Lowiski
 
 "First, solve the problem. Then, write the code." – John Johnson
 
