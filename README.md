@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Lowiski/Lowiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Louie P. Tajanlangit
 
-Here are some ideas to get you started:
+### Student | Tech Enthusiast | Aspiring Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+
+</div>
+
+---
+
+## 📄 About me
+
+A passionate student developer focused on building clean, simple, and responsive projects. I enjoy learning new technologies and improving my skills step by step.
+
+---
+
+## ⚡ Tech Arsenal
+
+```txt
+☕ Java  
+🌐 HTML  
+🎨 CSS  
+⚙️ JavaScript  
