@@ -20,7 +20,7 @@ I’m a student developer who enjoys learning by building projects and solving p
 ## ⚡ Tech Arsenal
 
 - HTML
-- -CSS
+- CSS
 - Java
 
 ---
