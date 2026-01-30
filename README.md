@@ -35,14 +35,19 @@ I’m a student developer who enjoys learning by building projects and solving p
 
 ---
 
-##My Projects Made
-
+## My Projects Made
+- https://lowiski.github.io/MyPortfolio/
 - https://lowiski.github.io/FinalProject/
+- 
 
 ## 📫 Connect With Me
 
-- Facebook: https://www.facebook.com/louie.tajanlangit.2025 
-- GitHub: https://github.com/Lowiski
+- <a href="https://www.facebook.com/louie.tajanlangit.2025" target="_blank">
+  Facebook
+</a>
+- <a href="https://github.com/Lowiski" target="_blank">
+  GitHub
+</a>
 
 ---
 
