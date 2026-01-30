@@ -6,67 +6,23 @@
 
 A passionate student developer focused on building clean, simple, and responsive projects. I enjoy learning new technologies and improving my skills step by step.
 
-
-[![Profile views](https://img.shields.io/badge/Profile%20views-42,431-268F77)](https://github.com/retsu14)
-
 </div>
 
 ---
 
 ## 🚀 What I Do
 
-I'm a dedicated full-stack developer who thrives on turning complex problems into elegant solutions. With expertise spanning both frontend and backend technologies, I build applications that are not only functional but also provide exceptional user experiences.
+I’m a student developer who enjoys learning by building projects and solving problems along the way. I explore both frontend and backend technologies, focusing on creating simple, responsive, and user-friendly applications. Through hands-on practice and continuous learning, I’m developing my skills step by step and growing into a full-stack developer.
 
-const developer = {
-  name: "Elieser N. Tajanlangit",
-  location: "Philippines",
-  focus: ["Web Development", "User Experience", "Clean Architecture"],
-  currentlyLearning: "Advanced React Patterns & System Design",
-  funFact: "I debug with console.log and I'm not ashamed of it! 🐛"
-};
 
 ---
 
 ## ⚡ Tech Arsenal
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend
-const frontend = {
-  languages: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-  frameworks: ['Next.js', 'React.js', 'VueJS', 'Nuxt.js'],
-  styling: ['Tailwind CSS', 'Bootstrap'],
-  tools: ['npm', 'Webpack']
-};
-
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-const backend = {
-  frameworks: ['Node.js', 'Express.js', 'Laravel'],
-  databases: ['MySQL', 'MongoDB', 'PostgreSQL'],
-  apis: ['RESTful', 'GraphQL'],
-  auth: ['JWT', 'OAuth']
-};
-
-</td>
-<td valign="top" width="33%">
-
-### 🛠️ DevOps & Tools
-const tools = {
-  versionControl: ['Git', 'GitHub', 'GitLab', 'Bitbucket'],
-  practices: ['CI/CD', 'Code Review'],
-  testing: ['Unit Testing', 'API Testing'],
-  deployment: ['Vercel', 'Render', 'Cloudflare', 'Netlify']
-};
-
-</td>
-</tr>
-</table>
-
+- HTML
+- -CSS
+- Java
+  
 ---
 
 ## 📈 GitHub Journey
