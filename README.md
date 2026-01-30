@@ -42,11 +42,8 @@ I’m a student developer who enjoys learning by building projects and solving p
 
 ## 📫 Connect With Me
 
-- <a href="https://www.facebook.com/louie.tajanlangit.2025" target="_blank">
-  Facebook
-</a>
-- <a href="https://github.com/Lowiski" target="_blank">
-  GitHub
+- Facebook: https://www.facebook.com/louie.tajanlangit.2025
+- Github: https://github.com/Lowiski
 </a>
 
 ---
