@@ -42,6 +42,5 @@ GitHub: https://github.com/Lowiski
 
 ---
 
-⭐️ If you find my work interesting, consider giving it a star!
 
 </div>
