@@ -22,26 +22,6 @@ I’m a student developer who enjoys learning by building projects and solving p
 - HTML
 - -CSS
 - Java
-  
----
-
-## 📈 GitHub Journey
-
-<div align="center">
-
-### 📊 Performance Metrics
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=retsu14&rank_icon=github&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
-
-### 🔥 Consistency Track
-<img src="https://streak-stats.demolab.com?user=retsu14&theme=gotham&hide_border=true" alt="GitHub Streak" />
-
-### 📅 Contribution Timeline
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=retsu14&theme=gotham&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-### 💻 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retsu14&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
 
 ---
 
@@ -60,8 +40,6 @@ I’m a student developer who enjoys learning by building projects and solving p
 <div align="center">
 
 GitHub: https://github.com/Lowiski
-
-"First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
