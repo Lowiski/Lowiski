@@ -35,6 +35,10 @@ I’m a student developer who enjoys learning by building projects and solving p
 
 ---
 
+##My Projects Made
+
+- https://lowiski.github.io/FinalProject/
+
 ## 📫 Connect With Me
 
 - Facebook: https://www.facebook.com/louie.tajanlangit.2025 
