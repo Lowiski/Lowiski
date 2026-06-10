@@ -29,8 +29,8 @@ I’m a student developer who enjoys learning by building projects and solving p
 
 - OOP
 - JavaScript
-- MongoDB
-- ReactJS
+- Laravel
+- Nextjs
 - MySQL
 
 ---
