@@ -31,10 +31,10 @@ I’m a student developer who enjoys learning by building projects and solving p
 - JavaScript
 - Laravel
 - Nextjs
-- MySQL
+- MySQL <br>
 -React <br>
--Postgresql
--ExpressJS
+-Postgresql <br>
+-ExpressJS <br>
 
 ---
 
