@@ -32,7 +32,7 @@ I’m a student developer who enjoys learning by building projects and solving p
 - Laravel
 - Nextjs
 - MySQL
--React
+-React <br>
 -Postgresql
 -ExpressJS
 
