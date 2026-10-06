@@ -32,6 +32,9 @@ I’m a student developer who enjoys learning by building projects and solving p
 - Laravel
 - Nextjs
 - MySQL
+-React
+-Postgresql
+-ExpressJS
 
 ---
 
