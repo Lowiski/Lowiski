@@ -27,14 +27,15 @@ I’m a student developer who enjoys learning by building projects and solving p
 
 ## 🎯 Currently Learning
 
-- OOP
-- JavaScript
-- Laravel
-- Nextjs
-- MySQL <br>
--React <br>
--Postgresql <br>
--ExpressJS <br>
++ OOP
++ JavaScript
++ Laravel
++ Next.js
++ MySQL
++ React
++ PostgreSQL
++ ExpressJS
+
 
 ---
 
